@@ -396,6 +396,35 @@ footer p{
     margin-top:10px;
 }
 
+/*Navbar Toggle*/
+#about{
+    scroll-margin-top:100px;
+}
+
+#skills{
+    scroll-margin-top:100px;
+}
+
+#projects{
+    scroll-margin-top:100px;
+}
+
+#experience{
+    scroll-margin-top:100px;
+}
+
+#education{
+    scroll-margin-top:100px;
+}
+
+#certificates{
+    scroll-margin-top:100px;
+}
+
+#contact{
+    scroll-margin-top:100px;
+}
+
 /* Responsive */
 
 @media(max-width:900px){
