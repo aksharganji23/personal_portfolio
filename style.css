@@ -224,6 +224,9 @@ nav{
 }
 
 /* Skills */
+#skills{
+    scroll-margin-top:100px;
+}
 
 .skills-grid{
     display:grid;
@@ -245,7 +248,9 @@ nav{
 }
 
 /* Projects */
-
+#projects{
+    scroll-margin-top:100px;
+}
 .projects-container{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
@@ -301,7 +306,12 @@ nav{
 }
 
 /* Timeline */
-
+#experience{
+    scroll-margin-top:100px;
+}
+#education{
+    scroll-margin-top:100px;
+}
 .timeline{
     max-width:800px;
     margin:auto;
@@ -314,7 +324,9 @@ nav{
 }
 
 /* Certificates */
-
+#certificates{
+    scroll-margin-top:100px;
+}
 .certificate-grid{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
@@ -345,6 +357,9 @@ nav{
 }
 
 /* Contact */
+#contact{
+    scroll-margin-top:100px;
+}
 
 .contact-container{
     display:grid;
@@ -397,35 +412,6 @@ footer{
 footer p{
     color:#aaa;
     margin-top:10px;
-}
-
-/*Navbar Toggle*/
-#about{
-    scroll-margin-top:100px;
-}
-
-#skills{
-    scroll-margin-top:100px;
-}
-
-#projects{
-    scroll-margin-top:100px;
-}
-
-#experience{
-    scroll-margin-top:100px;
-}
-
-#education{
-    scroll-margin-top:100px;
-}
-
-#certificates{
-    scroll-margin-top:100px;
-}
-
-#contact{
-    scroll-margin-top:100px;
 }
 
 /* Responsive */
